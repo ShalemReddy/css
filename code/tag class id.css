@@ -1,10 +1,17 @@
-
-/*h1{
+/*
+h1{
     background-color: aqua;
     color: black;
+}
+p{
+    background-color: aquamarine;
+    color: blue;
 }*/
-<style>
-.my class{
+
+.class {
     color: aqua;
 }
-></style>
+
+#sunny{
+    color: brown;
+}
