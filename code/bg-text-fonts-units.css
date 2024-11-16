@@ -1,0 +1,36 @@
+.vinny{
+    background-color: cadetblue;
+}
+.code{
+    background-color: #7fffd4;);
+}
+#sunny{
+    background-color: rgb(50,70,80);
+}
+.bunny{
+    background-color: hsla(250,20%,40%,0.8);
+}
+.chinni{
+    background:linear-gradient(blue,rgb(160,7,100));
+    color: white;
+}
+/*
+body{
+    height:100vh;
+    background:linear-gradient(to left,white,#6c419e)
+}*/
+/*
+body{
+    height:100vh;
+    background:linear-gradient(orange ,white,green)
+}*/
+/*
+body{
+    height:100vh;
+    background: radial-gradient(orange,white,green,orange,white,green,orange,white,green,orange,white,green,orange,white,green,orange,white,green,orange,white,green,orange,white,green,orange,white,green);
+}*/
+
+body{
+    background-image: url("./bgimage.png");
+    color:yellow;
+}
