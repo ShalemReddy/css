@@ -19,11 +19,11 @@ body{
     height:100vh;
     background:linear-gradient(to left,white,#6c419e)
 }*/
-
+/* 
 body{
     height:100vh;
     background:linear-gradient(to bottom,orange ,white,green)
-}
+} */
 /*
 body{
     height:100vh;
@@ -39,3 +39,24 @@ body{
     opacity: 1.0;
 
 }  */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+  body{
+    background-image:url('./bgimage.png');
+    font-family: "Dancing Script", cursive;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: oblique;
+    text-align: left;
+    text-decoration-line: none;
+    text-decoration-color: white;
+    text-shadow: 2px 3px whitesmoke;
+    text-transform: uppercase ;
+    
+  
+  }
+  .box{
+    background-color: aqua;
+    height: 15rem;
+    width: 75%;
+  
