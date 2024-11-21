@@ -14,16 +14,16 @@
     background:linear-gradient(blue,rgb(160,7,100));
     color: white;
 } */
-/*
-body{
+
+/* body{
     height:100vh;
     background:linear-gradient(to left,white,#6c419e)
-}*/
-/* 
-body{
+} */
+
+/* body{
     height:100vh;
     background:linear-gradient(to bottom,orange ,white,green)
-} */
+}  */
 /*
 body{
     height:100vh;
@@ -39,7 +39,7 @@ body{
     opacity: 1.0;
 
 }  */
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
   body{
     background-image:url('./bgimage.png');
@@ -59,4 +59,4 @@ body{
     background-color: aqua;
     height: 15rem;
     width: 75%;
-  
+    

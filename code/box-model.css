@@ -1,4 +1,4 @@
-body{
+/* body{
     background-color: darkgrey;
 }
 .box{
@@ -11,4 +11,26 @@ body{
     border-bottom-right-radius: 15px;
     text-shadow: 70px; 
     align:center;   
-}}
+}} */
+body{
+    background-color: mistyrose;
+    width: 100vw;
+}
+.box{
+    box-sizing: border-box;
+   width: 40vw;
+   background-color: white;
+   margin: auto;
+   margin-top: 100px;
+   border-radius: 30px;
+   padding: 50px;
+}
+.box>img{
+  height: 200px;
+  /* display: block;
+  margin: auto; */
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
